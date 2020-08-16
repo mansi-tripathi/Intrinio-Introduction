@@ -6,7 +6,7 @@ More information can be found on:
 http://help.intrinio.com/en/articles/1457883-what-is-intrinio
 https://about.intrinio.com/about
 
-Video Tutorial 1: https://mediaspace.illinois.edu/media/1_v94nt3oy
+## Video Tutorial 1: https://mediaspace.illinois.edu/media/1_v94nt3oy
 
 
 ### 2.	Getting started
@@ -37,14 +37,14 @@ h.	Support- This page comprises of the user community and help center. At the us
 i.	Billing- gives you the details of the payment method.
 j.	Info– mentions details about you account including your name, email address etc.
 
-Video tutorial 2: https://mediaspace.illinois.edu/media/1_4fqkyrgf
+## Video tutorial 2: https://mediaspace.illinois.edu/media/1_4fqkyrgf
 
 
 ### 4.	Exploring Pricing, Resources and Products
 
 ![image](https://user-images.githubusercontent.com/50637128/88725470-c3dda500-d0f1-11ea-979a-f183e6854c63.png)
 
-Video Tutorial 3: https://mediaspace.illinois.edu/media/1_x2cr6k7e
+## Video Tutorial 3: https://mediaspace.illinois.edu/media/1_x2cr6k7e
 
 #### a.	Pricing
 Intrinio was built on the principle that everyone should have access to exactly the data they need when they need it. That’s why their pricing structure might be a little different than you’re used to (especially if you’re “used to” paying hundreds of thousands of dollars every year for data).
@@ -89,11 +89,11 @@ You can choose to switch to another documentation by clicking on either of the l
 
 The Overview bar helps you get started including installation and a few examples based on the type of documentation you decide to choose as per your convenience.
 
-Video Tutorial 4: https://mediaspace.illinois.edu/media/1_w8kctmr0
+## Video Tutorial 4: https://mediaspace.illinois.edu/media/1_w8kctmr0
 
-5. Intrinio Resources to Access Data
+ ### 5. Intrinio Resources to Access Data
 
-Video Tutorial 5: https://mediaspace.illinois.edu/media/1_75rgzzes
+## Video Tutorial 5: https://mediaspace.illinois.edu/media/1_75rgzzes
 
 
 
